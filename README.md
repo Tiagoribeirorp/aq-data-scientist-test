@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Análise Espacial MG</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 2rem; line-height: 1.6; color: #333; }
-    h1, h2, h3 { color: #2e7d32; }
-    pre { background: #f4f4f4; padding: 1em; border-radius: 5px; overflow-x: auto; }
-    code { color: #0d47a1; }
-    ul { margin-top: 0; }
-    hr { margin: 2rem 0; }
-  </style>
-</head>
-<body>
+
 
 <h1>🌎 Análise Espacial de Municípios e Focos de Desmatamento em MG</h1>
 
