@@ -71,12 +71,8 @@ df_excel.to_excel('focos-desmatamento-mg.xlsx', index=False)</code></pre>
   <li>Focos de desmatamento — fornecidos localmente</li>
 </ul>
 
-<hr>
 
-<h2>📝 Licença</h2>
-<p>Distribuído sob a licença MIT. Consulte o arquivo <code>LICENSE</code> para mais informações.</p>
 
-<p><em>Feito com 💚 Python, dados abertos e o jeitinho mineiro por Tiago.</em></p>
 
 </body>
 </html>
